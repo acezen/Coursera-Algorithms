@@ -67,13 +67,11 @@ private class RandomizesQueueIterator implements Iterator<Item> {
 
             for (int i = 0; i < n; i++)
                 indices[i] = i;
-            for (int j = 0; j < 5; j++) {//here I choose to shuffle 5 times, 1 time won't pass test
-                for (int i = 0; i < n; i++) {
-                    int toSwap = StdRandom.uniform(0, n);
-                    int temp = indices[i];
-                    indices[i] = indices[toSwap];
-                    indices[toSwap] = temp;
-                }
+            for (int i = 0; i < n; i++) {  // shuffling
+                int toSwap = StdRandom.uniform(0, i + 1);
+                int temp = indices[i];
+                indices[i] = indices[toSwap];
+                indices[toSwap] = temp;
             }
         }
 
