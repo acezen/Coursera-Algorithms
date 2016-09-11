@@ -16,13 +16,11 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 
             for (int i = 0; i < n; i++)
                 indices[i] = i;
-            for (int j = 0; j < 5; j++) {
-                for (int i = 0; i < n; i++) {
-                    int toSwap = StdRandom.uniform(0, n);
-                    int temp = indices[i];
-                    indices[i] = indices[toSwap];
-                    indices[toSwap] = temp;
-                }
+            for (int i = 0; i < n; i++) {
+                int toSwap = StdRandom.uniform(0, i + 1);
+                int temp = indices[i];
+                indices[i] = indices[toSwap];
+                indices[toSwap] = temp;
             }
         }
 
