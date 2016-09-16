@@ -9,6 +9,8 @@ and I give explanation of the solution in `assignment/README`
 - [x] Randomized Queues & Deques
   - Evaluate: 100/100
   
-- [x] CollinearPoints
+- [x] Collinear Points
   - Evaluate: 100/100
 
+- [x] 8 Puzzle
+  - Evaluate: 100/100
