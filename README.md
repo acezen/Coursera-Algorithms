@@ -14,3 +14,5 @@ and I give explanation of the solution in `assignment/README`
 
 - [x] 8 Puzzle
   - Evaluate: 100/100
+
+- [ ] Kd-Trees
