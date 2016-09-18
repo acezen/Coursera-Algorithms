@@ -68,6 +68,7 @@ public class Board {
 
     public boolean equals(Object y) {
         // does this board equal y?
+        if (y == this) return true;
         if (y == null || y.getClass() != this.getClass()) return false;
         if (n != ((Board) y).n) return false;
         for (int i = 0; i < n; i++)
