@@ -1,19 +1,24 @@
 # Coursera-Algorithms
-This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)
-and I give explanation of the solution in `assignment/README`
+This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)  
+Every solution gets a full score and I give an explanation of my solution in `assignment/README`
 
-# Progress:
-#### Percolation 
-  - Evaluate: 100/100
+
+## Percolation 
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment1_Percolation
   
-#### Randomized Queues & Deques
-  - Evaluate: 100/100
+## Randomized Queues & Deques
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/queues.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment2_RandomizedQueues%26Deques
   
-#### Collinear Points
-  - Evaluate: 100/100
+## Collinear Points
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment3_CollinearPoints
 
-#### 8 Puzzle
-  - Evaluate: 100/100
+## 8 Puzzle
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment4_8Puzzle
 
-#### Kd-Trees
-  - Evaluate: 100/100
+## Kd-Trees
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment5_KdTrees
