@@ -22,3 +22,7 @@ Every solution gets a full score and I give an explanation of my solution in `as
 ## Kd-Trees
   - Specification: http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
   - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment5_KdTrees
+
+## WordNet
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment6_WordNet
