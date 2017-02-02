@@ -1,6 +1,6 @@
 # Coursera-Algorithms
-This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)  
-Every solution gets a full score and I give an explanation of my solution in `assignment/README`
+This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)  
+Full score for each assignment and a brief explanation in `assignment/README`
 
 
 ## Percolation 
