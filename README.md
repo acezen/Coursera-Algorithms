@@ -26,3 +26,7 @@ Full score for each assignment and a brief explanation in `assignment/README`
 ## WordNet
   - Specification: http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
   - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment6_WordNet
+
+## Seam Carving
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/seamCarving.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment7_SeamCarving
