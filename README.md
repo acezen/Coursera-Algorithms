@@ -30,3 +30,7 @@ Full score for each assignment and a brief explanation in `assignment/README`
 ## Seam Carving
   - Specification: http://coursera.cs.princeton.edu/algs4/assignments/seamCarving.html
   - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment7_SeamCarving
+
+## Baseball Elimination
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/baseball.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment8_BaseballElimination
