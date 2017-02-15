@@ -1,6 +1,6 @@
 # Coursera-Algorithms
 This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)  
-Full score for each assignment and a brief explanation in `assignment/README`
+And a brief description to each solution.
 
 
 ## Percolation 
@@ -34,7 +34,13 @@ Full score for each assignment and a brief explanation in `assignment/README`
 ## Baseball Elimination
   - Specification: http://coursera.cs.princeton.edu/algs4/assignments/baseball.html
   - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment8_BaseballElimination
-
+  
 ## Boggle
-  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
+  - Missing 2 points on performane
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
   - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment9_Boggle
+  
+## Burrows-Wheeler Data Compression
+  - Missing 2 points on performane
+  - Specification: http://coursera.cs.princeton.edu/algs4/assignments/burrows.html
+  - Solution and Explanation: https://github.com/CtheSky/Coursera-Algorithms/tree/master/Assignment10_BurrowsWheeler
