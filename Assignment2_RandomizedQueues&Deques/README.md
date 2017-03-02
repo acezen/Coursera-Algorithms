@@ -55,7 +55,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
 #### Implementation:  
 Here is a special requirement that every iterator must have a mutully independent order.
 To exploit the extra linear memory of iterator, I choose to implement it in resizable array. 
-To give a random order, I maintain an array of indecis and shuffle this array:
+To give a random order, I maintain an array of indices and shuffle this array:
 ```java
 private class RandomizesQueueIterator implements Iterator<Item> {
         private int[] indices;
