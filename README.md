@@ -1,6 +1,6 @@
 # Coursera-Algorithms
 This repo includes my solutions to [Algorithms course on coursera](https://www.coursera.org/learn/introduction-to-algorithms)  
-And a brief description to each solution.
+with brief explanations.
 
 
 ## Percolation 
